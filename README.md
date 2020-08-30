@@ -1,6 +1,6 @@
 # Kryptos-Part-III
 
-Kryptos (https://en.wikipedia.org/wiki/Kryptos) is a well-known sculpture at CIA Headquarters in Langley, VA by artist James Sanborn (http://jimsanborn.net/)  It contains four cryptograms.  The first three have been solved while the fourth remains unsolved at this time.  
+Kryptos (https://en.wikipedia.org/wiki/Kryptos) is a well-known sculpture at CIA Headquarters in Langley, Virginia by artist James Sanborn (http://jimsanborn.net/).  It contains four cryptograms.  The first three have been solved while the fourth remains unsolved at this time.  
                                                                                                                                         
 Part III of Kryptos is encrypted using a Route Transposition followed by a Keyed Columnar Transposition. The plaintext was also written backwards.  While this does not add to the complexity of the solution, it is a factor I’ll address later.  To solve this type of cryptogram the most difficult part is to know or understand the methodology used to do the encryption in the first place.  Once the methodology is known, there are still complications (keys, grid length, etc.)
 
